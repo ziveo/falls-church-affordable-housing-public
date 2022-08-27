@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "name": "PointsOfInterest",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 4, "ID": 4, "TYPE": "Government", "NAME_": "City Hall / Police Station" },
+      "geometry": { "type": "Point", "coordinates": [-77.172547347590296, 38.885690440328197] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 5, "ID": 5, "TYPE": "Government", "NAME_": "Public Library" },
+      "geometry": { "type": "Point", "coordinates": [-77.174635322418595, 38.885784017393497] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 6, "ID": 6, "TYPE": "Government", "NAME_": "Community Center" },
+      "geometry": { "type": "Point", "coordinates": [-77.171729826086803, 38.8863111717639] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 7, "ID": 7, "TYPE": "Government", "NAME_": "Aurora House" },
+      "geometry": { "type": "Point", "coordinates": [-77.178711910356597, 38.880020183151203] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 8, "ID": 8, "TYPE": "Government", "NAME_": "Property Yard" },
+      "geometry": { "type": "Point", "coordinates": [-77.190989455978098, 38.892617133809303] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 9, "ID": 9, "TYPE": "Government", "NAME_": "Cherry Hill Farmhouse" },
+      "geometry": { "type": "Point", "coordinates": [-77.173500715603197, 38.885794541198599] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 11, "ID": 11, "TYPE": "Government", "NAME_": "School Board Office" },
+      "geometry": { "type": "Point", "coordinates": [-77.180210373864298, 38.888370537951097] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 12, "ID": 12, "TYPE": "Government", "NAME_": "Fire Station" },
+      "geometry": { "type": "Point", "coordinates": [-77.163741028434501, 38.8866041386826] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 13, "ID": 13, "TYPE": "Religious", "NAME_": "The Falls Church" },
+      "geometry": { "type": "Point", "coordinates": [-77.170752015629802, 38.880923654623601] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 14, "ID": 14, "TYPE": "Religious", "NAME_": "Galloway United Methodist Church" },
+      "geometry": { "type": "Point", "coordinates": [-77.173545609981701, 38.878848987758303] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 15, "ID": 15, "TYPE": "Religious", "NAME_": "Falls Church Presbyterian Church" },
+      "geometry": { "type": "Point", "coordinates": [-77.167606904796799, 38.880722354639097] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 16, "ID": 16, "TYPE": "Religious", "NAME_": "Dulin United Methodist Church" },
+      "geometry": { "type": "Point", "coordinates": [-77.162937110325998, 38.877853053192403] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 17, "ID": 17, "TYPE": "Religious", "NAME_": "Crossman United Methodist Church" },
+      "geometry": { "type": "Point", "coordinates": [-77.166695127543093, 38.884167207594103] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 18, "ID": 18, "TYPE": "Religious", "NAME_": "Columbia Baptist Church" },
+      "geometry": { "type": "Point", "coordinates": [-77.1674238107192, 38.885690084320899] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 19, "ID": 19, "TYPE": "Religious", "NAME_": "St. James Catholic Church" },
+      "geometry": { "type": "Point", "coordinates": [-77.181384389571207, 38.890041207536001] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 21, "ID": 1, "TYPE": "School", "NAME_": "Mary Ellen Henderson Middle" },
+      "geometry": { "type": "Point", "coordinates": [-77.192976156664301, 38.897619591490603] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 22, "ID": 2, "TYPE": "School", "NAME_": "Mt. Daniel School" },
+      "geometry": { "type": "Point", "coordinates": [-77.180899337468404, 38.897427372500601] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 23, "ID": 3, "TYPE": "School", "NAME_": "Thomas Jefferson Elementary" },
+      "geometry": { "type": "Point", "coordinates": [-77.183754103610497, 38.883413332600597] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 24, "ID": 0, "TYPE": "School", "NAME_": "George Mason High" },
+      "geometry": { "type": "Point", "coordinates": [-77.191377562630507, 38.895985447029197] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 25, "ID": 4, "TYPE": "School", "NAME_": "Jessie Thackrey Preschool" },
+      "geometry": { "type": "Point", "coordinates": [-77.165893150776, 38.880458307146299] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 26, "ID": null, "TYPE": "Parking", "NAME_": "Kaiser Permanente" },
+      "geometry": { "type": "Point", "coordinates": [-77.1703420568046, 38.883938601880899] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 27, "ID": null, "TYPE": "Parking", "NAME_": "George Mason Square" },
+      "geometry": { "type": "Point", "coordinates": [-77.172661240358096, 38.882064594419901] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 28, "ID": null, "TYPE": "Parking", "NAME_": "Public Lot" },
+      "geometry": { "type": "Point", "coordinates": [-77.171736482563503, 38.883714119887998] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "OBJECTID": 29, "ID": null, "TYPE": "Parking", "NAME_": "Public Lot" },
+      "geometry": { "type": "Point", "coordinates": [-77.169555709495995, 38.882264254931798] }
+    }
+  ]
+}
